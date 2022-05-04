@@ -30,7 +30,7 @@ public class Ejercicio3 {
              String [][] nt = new String [10][2];
            
             System.out.println("Introduce 10 nombres");
-            for (int i = 0; i < 10; i++) {
+            for (int i = 0; i < 10; i--) {
                 for (int j = 0; j < 2; j++) {
                     
                 }
